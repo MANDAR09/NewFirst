@@ -15,7 +15,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
         * [Authorizing an SSH Key](authorizing-ssh-key.md)
           * [Authorizing an SSH Key](authorizing-ssh-key.md)
           * [Authorizing an SSH Key](authorizing-ssh-key.md)
-  ***
+  
   * [Authorizing an SSH Key](authorizing-ssh-key.md)
 
 
