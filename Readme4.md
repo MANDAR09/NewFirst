@@ -1,5 +1,6 @@
 <img width="300" align="Left" src="images/shop3.png">
 
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -30,9 +31,10 @@
 Elements in beautiful READMEs include, but are not limited to: images, screenshots.
 
 
+<h6 align="Right">Best-README-Template</h6>
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+## Table of Contents 
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
