@@ -1,6 +1,6 @@
-<h6 align="Left">Best-README-Template</h6>
+<h7 align="Left">“Information is the oil of the 21st century, and analytics is the combustion engine”</h7>
 
-<h1 align="Right">Best-README-Template</h1>
+<h1 align="Right">DATA IS ENOUGH</h1>
 
 <img width="300" align="Left" src="images/shop4.png">
 
