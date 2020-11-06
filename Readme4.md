@@ -1,5 +1,6 @@
-<img width="300" align="Left" src="images/shop3.png">
+# [gifs.com](https://gifs.com) Golang Package
 
+<img width="300" align="Left" src="images/shop3.png">
 
 <!-- PROJECT LOGO -->
 <br />
